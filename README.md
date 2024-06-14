@@ -30,6 +30,7 @@ The Amazon UI Clone project aims to replicate the look and feel of the Amazon we
 
 - Inspired by the design of the Amazon website.
 
-![Screenshot 2024-06-15 010233](https://github.com/Kamna-712/Amazon-Ui-Clone/assets/130769466/5ba5d6eb-b3f5-4fb1-8c19-1229efa74bed)
 ![Screenshot 2024-06-15 010217](https://github.com/Kamna-712/Amazon-Ui-Clone/assets/130769466/e81df249-dbc9-4be0-b6f8-627be5efa4a7)
+![Screenshot 2024-06-15 010233](https://github.com/Kamna-712/Amazon-Ui-Clone/assets/130769466/5ba5d6eb-b3f5-4fb1-8c19-1229efa74bed)
+
 
